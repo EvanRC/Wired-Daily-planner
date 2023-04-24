@@ -43,7 +43,7 @@ $(document).ready(function () { //creates call back function to wait for html to
     var userdayplan = $(this).siblings("textarea").val()
     var timeBlock = $(this).parent().attr("id")
     console.log('Button clicked', userdayplan, timeBlock);
-    localStorage.setItem(timeBlock, userdayplan) 
+    localStorage.setItem(timeBlock, userdayplan)
 
   }); // saves user data entered tnto text area with coresponding hour
 
