@@ -16,8 +16,11 @@ Assistance with the JavaScript was given by my tutor Sangeetha Kaliaperumal.
 Please refer to license in the repo.
 
 ## Website URL:
-https://evanrc.github.io/Wired-Portfolio/
+https://evanrc.github.io/Wired-Daily-planner/
 
-## ScreenShot:
-![Screenshot Portfolio](https://user-images.githubusercontent.com/124648885/230562628-79ee50b4-249b-47af-b9a5-76c1b5b3e267.png)
+## Website ScreenShot:
+![planner website screenshot](https://user-images.githubusercontent.com/124648885/233876744-15c458be-5ce6-418b-9288-6b85b767023f.png)
+
+## Code Screenshot:
+![Daily-planner-screenshot](https://user-images.githubusercontent.com/124648885/233876781-79f907a7-7c8f-4a3a-98e7-de8b8c8d8344.png)
 
