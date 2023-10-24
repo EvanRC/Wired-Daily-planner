@@ -3,7 +3,7 @@ $(document).ready(function () { //creates call back function to wait for html to
   var currentHour = dayjs().hour() //creates a new object that represents the current time and date and returns it in a 24 hour format.
   console.log(currentHour)
   setInterval(function () {
-    $("#currentDay").text(dayjs().format('HH:mm:ss YYYY-MM-DD'))
+    $("#currentDay").text(dayjs().format('hh:mm:ss A YYYY-MM-DD'))
   }, 1000) //updates time every second
   for (let i = 9; i < 18; i++) { // creates a loop to convert 24 hour clock to 12 hour and determine if it's am or pm.
     if (i < 12) {
